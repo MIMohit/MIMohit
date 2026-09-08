@@ -37,17 +37,6 @@ currently: designing systems that hold up under pressure
 
 <br>
 
-## `> ping github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MIMohit&show_icons=true&theme=dark&bg_color=05070a&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=MIMohit&theme=dark&background=05070a&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border=05070a&hide_border=true" alt="GitHub Streak" height="165"/>
-
-</div>
-
-<br>
-
 ## `> capability_matrix --scan`
 
 <div align="center">
