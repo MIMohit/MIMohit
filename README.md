@@ -24,6 +24,17 @@
 
 <br>
 
+## `> ping github --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MIMohit&show_icons=true&theme=dark&bg_color=05070a&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MIMohit&theme=dark&background=05070a&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border=05070a&hide_border=true" alt="GitHub Streak" height="165"/>
+
+</div>
+
+<br>
+
 ## `> nmap -sV mimohit`
 
 ```yaml
@@ -51,17 +62,6 @@ currently: designing systems that hold up under pressure
 ![Keycloak](https://img.shields.io/badge/-Keycloak-05070a?style=flat-square&logo=keycloak&logoColor=00FF9C)
 ![Linux](https://img.shields.io/badge/-Linux-05070a?style=flat-square&logo=linux&logoColor=00FF9C)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05070a?style=flat-square&logo=wireshark&logoColor=00FF9C)
-
-</div>
-
-<br>
-
-## `> ping github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MIMohit&show_icons=true&theme=dark&bg_color=05070a&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MIMohit&theme=dark&background=05070a&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border=05070a&hide_border=true" alt="GitHub Streak" height="165"/>
 
 </div>
 
