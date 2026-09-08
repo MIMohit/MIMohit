@@ -9,6 +9,19 @@
 
 <br>
 
+## `> nmap -sV mimohit`
+
+```yaml
+role:      Cybersecurity Researcher & Developer
+focus:     Zero Trust Architecture · API Security · AuthN
+based:     Dhaka, Bangladesh
+currently: designing systems that hold up under pressure
+```
+
+> *"Security isn't a feature you patch on later; it's the foundation you lay from day one."*
+
+<br>
+
 <!-- ⚡ ANIMATED CONTRIBUTION GRAPH — snake eats your contribution squares -->
 <div align="center">
 
@@ -32,19 +45,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MIMohit&theme=dark&background=05070a&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border=05070a&hide_border=true" alt="GitHub Streak" height="165"/>
 
 </div>
-
-<br>
-
-## `> nmap -sV mimohit`
-
-```yaml
-role:      Cybersecurity Researcher & Developer
-focus:     Zero Trust Architecture · API Security · AuthN
-based:     Dhaka, Bangladesh
-currently: designing systems that hold up under pressure
-```
-
-> *"Security isn't a feature you patch on later; it's the foundation you lay from day one."*
 
 <br>
 
