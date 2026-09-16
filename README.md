@@ -15,7 +15,7 @@
 role:      Cybersecurity Researcher & Developer
 focus:     Zero Trust Architecture · API Security · AuthN
 based:     Dhaka, Bangladesh
-currently: designing systems that hold up under pressure
+currently: Designing systems that hold up under pressure
 ```
 
 > *"Security isn't a feature you patch on later; it's the foundation you lay from day one."*
