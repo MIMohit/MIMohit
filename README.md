@@ -22,15 +22,42 @@ currently: designing systems that hold up under pressure
 
 <br>
 
-<!-- ⚡ ANIMATED CONTRIBUTION GRAPH — snake eats your contribution squares -->
+<!-- ⚡ ANIMATED CONTRIBUTION GRAPH — snake eats your contribution squares (last 52 weeks) -->
 <div align="center">
 
-### `> render contribution_grid.snake`
+### `> render contribution_grid.snake --last 52w`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIMohit/MIMohit/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MIMohit/MIMohit/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/MIMohit/MIMohit/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation — last 12 months" src="https://raw.githubusercontent.com/MIMohit/MIMohit/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br>
+
+<!-- 📊 CONTRIBUTION STATS -->
+<div align="center">
+
+### `> stats --total`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MIMohit&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=05070a&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&border_radius=8&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MIMohit&show_icons=true&count_private=true&include_all_commits=true&theme=default&border_radius=8" />
+  <img alt="MIMohit GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MIMohit&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=05070a&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&border_radius=8" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MIMohit&theme=dark&background=05070a&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=666&border=00FF9C&border_radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MIMohit&theme=default&border_radius=8" />
+  <img alt="MIMohit Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MIMohit&theme=dark&background=05070a&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=666&border=00FF9C&border_radius=8" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MIMohit&layout=compact&count_private=true&langs_count=8&theme=dark&bg_color=05070a&title_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&border_radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MIMohit&layout=compact&count_private=true&langs_count=8&theme=default&border_radius=8" />
+  <img alt="MIMohit Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIMohit&layout=compact&count_private=true&langs_count=8&theme=dark&bg_color=05070a&title_color=00FF9C&text_color=c9d1d9&border_color=00FF9C&border_radius=8" />
 </picture>
 
 </div>
