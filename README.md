@@ -25,7 +25,7 @@ currently: designing systems that hold up under pressure
 <!-- ⚡ ANIMATED CONTRIBUTION GRAPH — snake eats your contribution squares (last 52 weeks) -->
 <div align="center">
 
-### `> render contribution_grid.snake --last 52w`
+### `> contribution_grid.snake`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MIMohit/MIMohit/output/github-contribution-grid-snake-dark.svg" />
